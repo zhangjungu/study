@@ -1,4 +1,6 @@
-# vscode常用插件
+# vscode
+
+## vscode相关插件
 
 1. Atom One Dark Theme - vscode 颜色主题
 2. Auto Close Tag - 自动闭合标签
@@ -25,3 +27,16 @@
 23. vscode-styled-components - 语法高亮提示
 24. Vue VSCode Snippets - Vue代码片段
 25. Vue 3 Snippets - Vue3代码片段
+
+## vscode常用配置
+
+Auto Save 自动保存
+
+Font Size 修改字体大小
+
+Word Wrap 代码自动换行
+
+Render Whitespace 空格渲染方式 （ 推荐 all ）
+
+Tab Size 代码缩进 （ 推荐 2 ）
+
